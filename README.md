@@ -4,16 +4,16 @@ Radiko-Stream can record the [radiko.jp](https://radiko.jp/) programs outside of
 
 ```console
 Radiko_stream
- ┣ __pycache__
- ┃ ┣ area.cpython-38.pyc
- ┃ ┣ radiko.cpython-38.pyc
- ┃ ┣ radiko.cpython-39.pyc
- ┃ ┗ radiko_area.cpython-38.pyc
  ┣ data
  ┃ ┣ auth
  ┃ ┃ ┗ auth_key.bin
- ┃ ┗ json
+ ┃ ┣ json
  ┃ ┃ ┗ area.json
+ ┣ utils
+ ┃ ┣ __init__.py
+ ┃ ┗ str2bool.py
+ ┣ LICENSE
+ ┣ README.md
  ┣ main.py
  ┣ radiko.py
  ┗ requirements.txt
