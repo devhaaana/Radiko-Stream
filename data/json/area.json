@@ -1,0 +1,190 @@
+{
+    "JP1": {
+        "latitude" : 43.064615,
+        "longitude" : 141.346807
+    },
+    "JP2": {
+        "latitude" : 40.824308,
+        "longitude" : 140.739998
+    },
+    "JP3": {
+        "latitude" : 39.703619,
+        "longitude" : 141.152684
+    },
+    "JP4": {
+        "latitude" : 38.268837,
+        "longitude" : 140.8721
+    },
+    "JP5": {
+        "latitude" : 39.718614,
+        "longitude" : 140.102364
+    },
+    "JP6": {
+        "latitude" : 38.240436,
+        "longitude" : 140.363633
+    },
+    "JP7": {
+        "latitude" : 37.750299,
+        "longitude" : 140.467551
+    },
+    "JP8": {
+        "latitude" : 36.341811,
+        "longitude" : 140.446793
+    },
+    "JP9": {
+        "latitude" : 36.565725,
+        "longitude" : 139.883565
+    },
+    "JP10": {
+        "latitude" : 36.390668,
+        "longitude" : 139.060406
+    },
+    "JP11": {
+        "latitude" : 35.856999,
+        "longitude" : 139.648849
+    },
+    "JP12": {
+        "latitude" : 35.605057,
+        "longitude" : 140.123306
+    },
+    "JP13": {
+        "latitude" : 35.689488,
+        "longitude" : 139.691706
+    },
+    "JP14": {
+        "latitude" : 35.447507,
+        "longitude" : 139.642345
+    },
+    "JP15": {
+        "latitude" : 37.902552,
+        "longitude" : 139.023095
+    },
+    "JP16": {
+        "latitude" : 36.695291,
+        "longitude" : 137.211338
+    },
+    "JP17": {
+        "latitude" : 36.594682,
+        "longitude" : 136.625573
+    },
+    "JP18": {
+        "latitude" : 36.065178,
+        "longitude" : 136.221527
+    },
+    "JP19": {
+        "latitude" : 35.664158,
+        "longitude" : 138.568449
+    },
+    "JP20": {
+        "latitude" : 36.651299,
+        "longitude" : 138.180956
+    },
+    "JP21": {
+        "latitude" : 35.391227,
+        "longitude" : 136.722291
+    },
+    "JP22": {
+        "latitude" : 34.97712,
+        "longitude" : 138.383084
+    },
+    "JP23": {
+        "latitude" : 35.180188,
+        "longitude" : 136.906565
+    },
+    "JP24": {
+        "latitude" : 34.730283,
+        "longitude" : 136.508588
+    },
+    "JP25": {
+        "latitude" : 35.004531,
+        "longitude" : 135.86859
+    },
+    "JP26": {
+        "latitude" : 35.021247,
+        "longitude" : 135.755597
+    },
+    "JP27": {
+        "latitude" : 34.686297,
+        "longitude" : 135.519661
+    },
+    "JP28": {
+        "latitude" : 34.691269,
+        "longitude" : 135.183071
+    },
+    "JP29": {
+        "latitude" : 34.685334,
+        "longitude" : 135.832742
+    },
+    "JP30": {
+        "latitude" : 34.225987,
+        "longitude" : 135.167509
+    },
+    "JP31": {
+        "latitude" : 35.503891,
+        "longitude" : 134.237736
+    },
+    "JP32": {
+        "latitude" : 35.472295,
+        "longitude" : 133.0505
+    },
+    "JP33": {
+        "latitude" : 34.661751,
+        "longitude" : 133.934406
+    },
+    "JP34": {
+        "latitude" : 34.39656,
+        "longitude" : 132.459622
+    },
+    "JP35": {
+        "latitude" : 34.185956,
+        "longitude" : 131.470649
+    },
+    "JP36": {
+        "latitude" : 34.065718,
+        "longitude" : 134.55936
+    },
+    "JP37": {
+        "latitude" : 34.340149,
+        "longitude" : 134.043444
+    },
+    "JP38": {
+        "latitude" : 33.841624,
+        "longitude" : 132.765681
+    },
+    "JP39": {
+        "latitude" : 33.559706,
+        "longitude" : 133.531079
+    },
+    "JP40": {
+        "latitude" : 33.606576,
+        "longitude" : 130.418297
+    },
+    "JP41": {
+        "latitude" : 33.249442,
+        "longitude" : 130.299794
+    },
+    "JP42": {
+        "latitude" : 32.744839,
+        "longitude" : 129.873756
+    },
+    "JP43": {
+        "latitude" : 32.789827,
+        "longitude" : 130.741667
+    },
+    "JP44": {
+        "latitude" : 33.238172,
+        "longitude" : 131.612619
+    },
+    "JP45": {
+        "latitude" : 31.911096,
+        "longitude" : 131.423893
+    },
+    "JP46": {
+        "latitude" : 31.560146,
+        "longitude" : 130.557978
+    },
+    "JP47": {
+        "latitude" : 26.2124,
+        "longitude" : 127.680932
+    }
+}
